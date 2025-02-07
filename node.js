@@ -28,7 +28,7 @@ function shoppingList() {
             console.log("Your list is empty."); 
           } else {
             for (let i = 0; i < itemsList.length; i++) {  //Arrange the input items in number order
-              console.log(`${i + 1}. ${itemsList[i]}`);  //Display the item list with ordered number
+              console.log(`${i + 1}. ${itemsList[i]}`);  //Display the ordered list of the items
             }
         
         }
