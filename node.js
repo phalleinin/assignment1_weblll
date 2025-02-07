@@ -34,6 +34,6 @@ function shoppingList() {
         }
     }
 }
-shoppingList()
+shoppingList()  //callback function
 
 
